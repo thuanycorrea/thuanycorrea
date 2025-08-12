@@ -10,6 +10,9 @@
 ## Contato
 
 <a href="www.linkedin.com/in/
+thuany-correa-leite-2a40822a7
+
+
 thuany-correa-leite-2a40822a7">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60">
     
