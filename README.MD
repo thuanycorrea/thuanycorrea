@@ -10,7 +10,7 @@
 ## Contato
 
 <a href="www.linkedin.com/in/
-thuany-correa-leite-2a40822a7
+thuany-correa-leite-2a40822a7>
 
 
 thuany-correa-leite-2a40822a7">
