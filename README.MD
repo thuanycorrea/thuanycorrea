@@ -1,11 +1,11 @@
 
 # 👋 Olá, Devs! Eu sou a Thuany!
 
-Me chamo **Thuany!**
+Me chamo Thuany!
 
-![Thuany Correa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thuanycorrea&show_icons=true&theme=onedark)
+[![Thuany Correa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thuanycorrea&show_icons=true&theme=onedark)](https://github.com/thuanycorrea)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanycorrea&layout=compact" alt="Top Linguagens" />
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thuanycorrea&layout=compact)](https://github.com/thuanycorrea)
 
 ## 🔗 Conecte-se
 
@@ -15,5 +15,8 @@ Me chamo **Thuany!**
 
 ## 🚀 Onde Estou
 
-![Snake animation](https://raw.githubusercontent.com/thuanycorrea/thuanycorrea/output/github-contribution-grid-snake.svg)
 🏢 Atualmente estou trabalhando na **Robert Bosch**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thuanycorrea/thuanycorrea/output/github-contribution-grid-snake.svg" alt="Snake animation" style="width: 90%;">
+</p>
