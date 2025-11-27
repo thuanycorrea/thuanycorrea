@@ -17,6 +17,3 @@ Me chamo Thuany!
 
 🏢 Atualmente estou trabalhando na **Robert Bosch**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thuanycorrea/thuanycorrea/output/github-contribution-grid-snake.svg" alt="Snake animation" style="width: 90%;">
-</p>
