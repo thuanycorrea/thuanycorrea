@@ -16,5 +16,4 @@ Me chamo **Thuany!**
 ## 🚀 Onde Estou
 
 ![Snake animation](https://raw.githubusercontent.com/thuanycorrea/thuanycorrea/output/github-contribution-grid-snake.svg)
-
 🏢 Atualmente estou trabalhando na **Robert Bosch**
