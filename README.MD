@@ -13,7 +13,5 @@ Me chamo Thuany!
     <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-02300785?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
 
-## 🚀 Onde Estou
 
-🏢 Atualmente estou trabalhando na **Robert Bosch**
 
